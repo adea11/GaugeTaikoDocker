@@ -1,0 +1,8 @@
+language: nodejs
+
+services:
+  - docker
+
+script:
+- docker build -t gauge-taiko .
+- docker run gauge-taiko npm test

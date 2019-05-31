@@ -15,4 +15,4 @@ This is sample gauge project illustrating gauge + taiko usage in a docker contai
 
     or to run `gauge` args 
 
-    * Run `docke container run gauge-taiko npm run gauge -- {args for gauge command}`
+    * Run `docker container run gauge-taiko npm run gauge -- {args for gauge command}`
