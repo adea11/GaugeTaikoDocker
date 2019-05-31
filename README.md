@@ -2,7 +2,7 @@
 
 This is sample gauge project illustrating gauge + taiko usage in a docker container
 
-## Prereuisite
+## Prerequisite
 
 * docker
 
